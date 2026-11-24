@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a simple clock with date functionality using an Arduino and a 16x2 LCD display. The clock does not require an RTC (Real-Time Clock) module, making it an affordable and straightforward solution for basic timekeeping needs. The project is designed by Prince Kushwaha from COSM Electronics.
+This project demonstrates a simple clock with date functionality using an Arduino and a 16x2 LCD display. The clock does not require an RTC (Real-Time Clock) module, making it an affordable and straightforward solution for basic timekeeping needs. 
 
 ## Features
 
